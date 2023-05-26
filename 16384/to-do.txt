@@ -1,7 +1,0 @@
-To Do
-- Fix shift-merge algorithm (bugs detected)
-- Create option for user to use perks
-- Create generation algorithm to allow a grid with varying Tile types
-- Implement the locked tiles mechanic
-- Fix code readability
-- GUI (obviously)
